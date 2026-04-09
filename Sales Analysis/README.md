@@ -1,77 +1,119 @@
-📊 Retail Sales & Customer Insights Dashboard (Power BI + SQL)
-🔹 Project Overview
-This project focuses on analyzing retail business data to uncover insights related to sales performance, customer behavior, product demand, supplier efficiency, and revenue trends. The dashboard was built using Power BI, with data processed and transformed using SQL.
+# 📊 Retail Sales & Customer Insights Dashboard (Power BI + SQL)
 
-🎯 Business Requirements
-1️⃣ Sales Analysis
-Track total sales by store and product category
-Analyze monthly sales trends
-Identify Top 10 best-selling products
-Identify Top 10 underperforming products
-2️⃣ Customer Insights
-Total number of customers (KPI cards)
+## 🔹 Project Overview
 
-New vs Returning customers analysis
+This project analyzes retail business data to generate actionable insights across sales performance, customer behavior, product demand, supplier efficiency, and revenue trends.
 
-Monthly active customers trend
+Data was processed using **SQL** and visualized through an interactive **Power BI dashboard**.
 
-Analyze:
+---
 
-Customer purchase frequency
-Average order value
-Identify loyal customers (repeat buyers)
+## 🎯 Business Requirements
 
-3️⃣ Product & Supplier Performance
-Analyze product demand (top & least selling)
+### **1️⃣ Sales Analysis**
 
-Revenue contribution by products
+* Track total sales by store and product category
+* Analyze monthly sales trends
+* Identify top 10 best-selling products
+* Identify top 10 underperforming products
 
-Evaluate supplier performance based on:
+### **2️⃣ Customer Insights**
 
-Shipment status
-Total shipments
-Identify top-performing suppliers
+* Total number of customers (KPI)
+* New vs returning customer analysis
+* Monthly active customers trend
+* Analyze:
 
-4️⃣ Orders & Shipping Analysis
-Total orders and order status:
+  * Customer purchase frequency
+  * Average order value
+* Identify loyal customers (repeat buyers)
 
-Completed
-Pending
-Returned
-Average shipping time per region/store
+### **3️⃣ Product & Supplier Performance**
 
-Identify regions with:
+* Analyze product demand (top & least selling)
+* Revenue contribution by products
+* Evaluate supplier performance using:
 
-High returns
-Delivery delays
-5️⃣ Payment & Revenue Analysis
-Revenue analysis using payment data
-Identify high-value transactions
-Analyze monthly revenue trends
-🛠️ Tools & Technologies Used
-SQL – Data extraction, cleaning, and transformation
-Power BI – Data visualization and dashboard creation
-📈 Key Insights
-A small group of products contributes significantly to total revenue (Pareto effect)
-Seasonal trends observed in monthly sales and revenue
-Returning customers generate higher average order value than new customers
-Certain regions show higher return rates indicating possible logistics issues
-Top suppliers contribute disproportionately to overall sales performance
-🖼️ Dashboard Preview
-(Screenshots available in the /Screenshots folder)
+  * Shipment status
+  * Total shipments
+* Identify top-performing suppliers
 
-🗃️ Dataset
-Included in the repository (/Dataset folder)
-🧾 SQL Queries
-Data cleaning, joins, aggregations, and transformations are provided in: 👉 SQL_queries.sql
-📊 Power BI Dashboard
-Interactive dashboard file: 👉 project.pbix
-🎥 Video Demo
-(A video demonstration showcasing dashboard interaction and insights will be available in the portfolio website)
+### **4️⃣ Orders & Shipping Analysis**
 
-🚀 Conclusion
+* Analyze total orders and order status:
+
+  * Completed
+  * Pending
+  * Returned
+* Identify regions with:
+
+  * High return rates
+  * Delivery delays
+
+### **5️⃣ Payment & Revenue Analysis**
+
+* Perform revenue analysis using payment data
+* Identify high-value transactions
+* Analyze monthly revenue trends
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **SQL** → Data cleaning, transformation, and aggregation
+* **Power BI** → Dashboard development and visualization
+
+---
+
+## 📈 Key Insights
+
+* A small set of products contributes significantly to overall revenue (**Pareto Principle**)
+* Clear seasonal trends observed in monthly sales and revenue
+* Returning customers generate higher average order value
+* Certain regions show higher return rates, indicating potential logistics issues
+* Top suppliers contribute disproportionately to total sales
+
+---
+
+## 🖼️ Dashboard Preview
+
+📂 Screenshots available in the `/Screenshots` folder
+
+---
+
+## 🗃️ Dataset
+
+📂 Available in `/Dataset`
+
+---
+
+## 🧾 SQL Queries
+
+📄 All queries used for data processing:
+👉 `SQL_queries.sql`
+
+---
+
+## 📊 Power BI Dashboard
+
+📄 Dashboard file:
+👉 `project.pbix`
+
+---
+
+## 🎥 Demo
+
+📽️ Dashboard walkthrough video:
+👉 *(Add your YouTube or Drive link here)*
+
+---
+
+## 🚀 Conclusion
+
 This project demonstrates the ability to:
 
-Transform raw data into meaningful insights
-Build interactive dashboards
-Perform end-to-end data analysis using SQL and Power BI
+* Transform raw data into meaningful insights
+* Perform end-to-end data analysis using SQL
+* Build interactive dashboards in Power BI
+* Translate business requirements into data-driven solutions
+
