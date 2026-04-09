@@ -67,7 +67,7 @@ Data was processed using **SQL** and visualized through an interactive **Power B
 
 ## 📈 Key Insights
 
-* A small set of products contributes significantly to overall revenue (**Pareto Principle**)
+* A small set of products contributes significantly to overall revenue
 * Clear seasonal trends observed in monthly sales and revenue
 * Returning customers generate higher average order value
 * Certain regions show higher return rates, indicating potential logistics issues
