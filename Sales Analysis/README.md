@@ -101,13 +101,6 @@ Data was processed using **SQL** and visualized through an interactive **Power B
 
 ---
 
-## 🎥 Demo
-
-📽️ Dashboard walkthrough video:
-👉 *(Add your YouTube or Drive link here)*
-
----
-
 ## 🚀 Conclusion
 
 This project demonstrates the ability to:
