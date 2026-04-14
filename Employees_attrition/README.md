@@ -61,7 +61,6 @@ The company wants to identify high-risk employee groups and take corrective acti
 ## 🛠️ Tools & Technologies Used
 - SQL (Views, Aggregations, CASE statements)
 - Power BI (Dashboard & Visualization)
-- Data Modeling (Star-like analysis structure)
 - Excel / CSV dataset
 
 ---
